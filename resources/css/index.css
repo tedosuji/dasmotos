@@ -5,6 +5,7 @@
     h1 {
         font-size: 100px;
         font-weight: bold;
+        text-align: center;
         color: khaki;
         background-image: url("../images/pattern.webp");
     }
@@ -25,4 +26,9 @@
 
     .paint h2 {
         background-color: skyblue;
+    }
+
+    .price {
+        font-weight: bold;
+        color: blue;
     }
