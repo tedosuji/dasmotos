@@ -15,14 +15,14 @@ h2 {
     color: white;
 }
 
-.brushes h2{
+h2.brushes {
     background-color: mediumspringgreen;
 }
 
-.frames h2{
+h2.frames {
     background-color: lightcoral;
 }
 
-.paint h2{
+h2.paint {
     background-color: skyblue;
 }
